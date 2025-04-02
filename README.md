@@ -67,6 +67,7 @@ Want to add a new dataset or improve metadata?
 | Carolina Materials DB          | Hypothetical crystals   | 214k structures          | Computational | JSON        | CC BY 4.0   | Open       | [carolinamatdb.org](http://www.carolinamatdb.org) |
 | NOMAD          | Various DFT/MD   | >19M calculations          | Computational | JSON        | CC BY 4.0   | Open       | [NOMAD Repository](https://nomad-lab.eu/prod/v1/gui/search/entries/search/entries) |
 | MatPES | DFT Potential Energy Surfaces | ~400,000 structures from 300K MD simulations | Computational | JSON | | Open | [MatPES](https://matpes.ai) 
+| QCD | Nanoclusters | >63k nanoclusters from DFT computations | Computational | JSON | Open | [Quantum Cluster Database (https://muellergroup.jhu.edu/qcd/)] 
 
 
 
